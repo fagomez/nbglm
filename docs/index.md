@@ -109,7 +109,7 @@ nbglm/
 </pre>
 
 The source code and the data is available at:  
-👉 https://github.com/fagomez/nbglm
+[GitHub repository](https://github.com/fagomez/nbglm)
 
 ## 📄 Citation
 
