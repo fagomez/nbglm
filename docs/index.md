@@ -1,6 +1,6 @@
 # 🧠 Multidimensional Periodization of Internal Armed Conflict
 
-![Workflow](assets/figures/workflow.png)
+![Workflow](assets/figures/MasterTimeLine.png)
 
 Colors indicate statistically homogeneous regimes detected by the NB model for different violence indicators.
 
