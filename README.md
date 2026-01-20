@@ -2,10 +2,8 @@
 
 This repository contains the code and data associated with the study:
 
-**_A Negative Binomial GLM Change-Point Model for Multidimensional Conflict Periodization_**  
-📌 *Manuscript under review at PLOS ONE*
+_A Negative Binomial GLM Change-Point Model for Multidimensional Conflict Periodization_
 
-🌐 Project webpage:  
 👉 https://fagomez.github.io/nbglm/
 
 ---
