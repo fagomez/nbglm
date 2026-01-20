@@ -12,17 +12,7 @@ This repository contains the code and data associated with the study:
 
 ## 📌 Project Overview
 
-This project introduces a **statistical framework for identifying structural regimes in internal armed conflicts**, based on a **Negative Binomial Generalized Linear Model (NB-GLM)** combined with change-point detection.
-
-The approach is designed to:
-
-- Model highly **overdispersed violence data**
-- Detect **escalation and de-escalation phases**
-- Incorporate **population-adjusted risk**
-- Compare multiple **dimensions of violence**
-- Provide a **reproducible and interpretable periodization**
-
-The empirical application uses **monthly data from the Colombian internal armed conflict (1958–2021)**.
+This repository implements a **Negative Binomial Generalized Linear Model (NB-GLM)** for detecting structural changes in time series of violence data.
 
 ---
 
