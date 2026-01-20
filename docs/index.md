@@ -53,8 +53,6 @@ Violence is analyzed across three dimensions:
 - **Logic of violence** (selective vs indiscriminate)
 - **Human impact** (events vs victims)
 
-This yields **12 complementary time series**.
-
 ---
 
 ### 🔹 Distributional assessment
@@ -72,7 +70,7 @@ A **Negative Binomial GLM** is used to:
 - Capture escalation/de-escalation trends  
 - Incorporate population effects  
 
-The model detects **structural regime changes**, not short-term noise.
+The model detects **structural regime changes**.
 
 ---
 
