@@ -29,10 +29,10 @@ This work is currently **under review at PLOS ONE**.
 If you wish to cite this work while it is under review, please use the following reference:
 
 <pre>
-@unpublished{Gomez2025NBGLM,
+@unpublished{Gomez2026NBGLM,
   title   = {A Negative Binomial GLM Change-Point Model for Multidimensional Conflict Periodization},
-  author  = {G{\'o}mez, Francisco and Castro, Cristiam},
-  year    = {2025},
+  author  = {Castro, Cristiam and G{\'o}mez, Francisco},
+  year    = {2026},
   note    = {Manuscript under review at PLOS ONE}
 }
 </pre>
