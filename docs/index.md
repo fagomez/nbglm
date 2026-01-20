@@ -2,7 +2,7 @@
 
 ![Workflow](assets/figures/MasterTimeLine.png)
 
-Colors indicate statistically homogeneous regimes detected by the NB model for different violence indicators.
+ Colors indicate statistically homogeneous regimes detected by the NB model for different violence indicators.
 
 ## 🔍 Project Overview
 
