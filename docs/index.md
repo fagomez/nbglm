@@ -108,6 +108,8 @@ nbglm/
 └── requirements.txt
 </pre>
 
+The source code and the data is available at:  
+👉 https://github.com/fagomez/nbglm
 
 ## 📄 Citation
 
