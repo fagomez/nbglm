@@ -95,6 +95,9 @@ The GLM–NB model locates regime changes **closer to empirical violence peaks**
 
 ## 📁 Repository Structure
 
+The source code and the data is available at:  
+[GitHub repository](https://github.com/fagomez/nbglm)
+
 The project is organized as follows:
 
 <pre>
@@ -108,8 +111,6 @@ nbglm/
 └── requirements.txt
 </pre>
 
-The source code and the data is available at:  
-[GitHub repository](https://github.com/fagomez/nbglm)
 
 ## 📄 Citation
 
